@@ -1,2 +1,7 @@
 # Machine_learning_Network-No-Libraries-
-this description is optionnel  by me 
+
+
+
+In this code ,I neural nets to recognize handwritten digits
+
+
