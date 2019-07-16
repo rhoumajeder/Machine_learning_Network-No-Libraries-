@@ -33,7 +33,7 @@ import mnist_loader
 import png_converter
 import machine_learning
 from numpy import * # to avoid problems like INT64 not found 
-import numpy as np 
+import numpy as np  
 ____________________________________________________________
 2- Tape this command in order :
 
