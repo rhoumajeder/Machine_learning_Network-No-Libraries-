@@ -1,5 +1,5 @@
 
-###Machine_learning_Network-No-Libraries-
+# Machine_learning_Network-No-Libraries-
 In this code ,I use neural nets to recognize handwritten digits . you can test the network code by drawing number using Paint for example in windows , and save the PNG picture ...., more details keep reading please . I share this code with you to help learn more about AI DEEP LEARNING and Network .. This code may be usefule for teachers , students ..
 
 
